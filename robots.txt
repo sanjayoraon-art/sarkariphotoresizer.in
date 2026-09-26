@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sarkariphotoresizerin.vercel.app/sitemap.xml
